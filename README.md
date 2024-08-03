@@ -6,7 +6,7 @@ Sejam bem vindos ao meu humilde perfil do GitHub.
 
 👨‍🎓 Graduado em Administração e também Análise e Desenvolvimento de Sistemas;
 
-💙 Flutter virou minha paixão;
+💙 Desenvolvimento Mobile virou minha paixão;
 
 🧰 Usando Git/GitHub, Visual Studio Code e Firebase;
 
@@ -14,6 +14,9 @@ Sejam bem vindos ao meu humilde perfil do GitHub.
 ##
 
 **Tecnologias que estudo atualmente:**
+ - React Native
+ - React
+ - Next.js 
  - Flutter
  - Dart
  - Firebase
